@@ -1,3 +1,3 @@
 # Stuff
 
-Small programs use to clarify some concepts!
+Small programs used to clarify some concepts!
